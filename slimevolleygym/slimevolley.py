@@ -42,7 +42,8 @@ FRICTION = 1.0 # 1 means no FRICTION, less means FRICTION
 INIT_DELAY_FRAMES = 30
 GRAVITY = -9.8*2*1.5
 
-MAXLIVES = 5 # game ends when one agent loses this many games
+#MAXLIVES = 5 # game ends when one agent loses this many games
+MAXLIVES = 100 # game ends when one agent loses this many games
 
 WINDOW_WIDTH = 1200
 WINDOW_HEIGHT = 500
